@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadtauqeer672
 - 👀 I’m interested in mern stack development
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning python Advance
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me ...
 
